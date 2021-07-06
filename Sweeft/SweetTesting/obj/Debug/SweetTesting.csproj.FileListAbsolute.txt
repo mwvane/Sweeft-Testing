@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SweetTesting\SweetTesting\bin\Debug\SweetTesting.exe.config
+C:\Users\Admin\source\repos\SweetTesting\SweetTesting\bin\Debug\SweetTesting.exe
+C:\Users\Admin\source\repos\SweetTesting\SweetTesting\bin\Debug\SweetTesting.pdb
+C:\Users\Admin\source\repos\SweetTesting\SweetTesting\obj\Debug\SweetTesting.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SweetTesting\SweetTesting\obj\Debug\SweetTesting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SweetTesting\SweetTesting\obj\Debug\SweetTesting.exe
+C:\Users\Admin\source\repos\SweetTesting\SweetTesting\obj\Debug\SweetTesting.pdb
